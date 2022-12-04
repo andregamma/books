@@ -1,5 +1,32 @@
 [
   {
+    "title": "O poder dos quietos",
+    "authors": [
+      "Susan Cain",
+      "Ana Carolina Bento Ribeiro"
+    ],
+    "publishedDate": "2012",
+    "description": "Com argumentos que buscam ser cativantes, uma extensa pesquisa e repleto de histórias reais, 'O poder dos quietos' mostra como os tímidos e introvertidos são subvalorizados, e como pode-se perder com isso. Partindo da ascensão do Ideal da Extroversão no século XX, Susan Cain questiona os valores dominantes no mundo empresarial moderno, no qual a colaboração forçada pode bloquear o caminho da inovação e no qual o potencial de liderança dos introvertidos é frequentemente negligenciado. A autora apresenta histórias de introvertidos de sucesso e procura oferecer conselhos sobre como os tímidos podem tirar vantagem das suas características.",
+    "image": "https://tse2.mm.bing.net/th?q=O%20poder%20dos%20quietos%20by%20Susan%20Cain%2C%20Ana%20Carolina%20Bento%20Ribeiro&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "pt-BR",
+    "categories": [
+      "Extraversion"
+    ],
+    "pageCount": 334,
+    "isbn10": "8522013268",
+    "isbn13": "9788522013265",
+    "googleBooks": {
+      "id": "BffyugAACAAJ",
+      "preview": "http://books.google.com/books?id=BffyugAACAAJ&dq=intitle:O+Poder+dos+Quietos+by+Susan+Cain&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=BffyugAACAAJ&dq=intitle:O+Poder+dos+Quietos+by+Susan+Cain&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/O_poder_dos_quietos.html?hl=&id=BffyugAACAAJ"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-12-04T21:54:49.000Z"
+  },
+  {
     "title": "Este livro não vai te deixar rico",
     "authors": [
       "Startup da Real"
